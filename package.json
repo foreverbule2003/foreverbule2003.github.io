@@ -121,5 +121,6 @@
         "*.+(ts|tsx)": [
             "prettier --loglevel=debug --write"
         ]
-    }
+    },
+    "homepage": "https://foreverbule2003.github.io/react-ultimate-resume/"
 }
